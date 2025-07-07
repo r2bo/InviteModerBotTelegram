@@ -1,0 +1,22 @@
+{
+  "start": "👋 <b>Welcome!</b>\n\n🌍 Please choose your language:\n🇷🇺 Русский\n🇬🇧 English",
+  "start_bilingual": "👋 <b>Welcome! / Добро пожаловать!</b>\n\n🌍 Please choose your language / Выберите язык:\n🇷🇺 Русский\n🇬🇧 English",
+  "captcha": "🔐 <b>Security Check</b>\n\nEnter captcha to join the chat {nameproject}:",
+  "captcha_after_lang_change": "✅ <b>Language set!</b>\n\nNow proceeding to security check.\n\n🔐 <b>Security Check</b>\n\nEnter captcha to join the chat {nameproject}:",
+  "captcha_success": "✅ <b>Great!</b>\n\nCaptcha passed successfully!",
+  "captcha_fail": "❌ <b>Incorrect!</b>\n\nPlease try again.",
+  "invite": "🎉 <b>Welcome to the chat!</b>\n\n🔗 Here is your temporary invite link:",
+  "success_with_invite": "✅ <b>Great!</b>\n\nCaptcha passed successfully!\n\n🎉 <b>Welcome to the chat!</b>\n\n🔗 Here is your temporary invite link:",
+  "error": "⚠️ <b>Error!</b>\n\nAn error occurred. Please try again later.",
+  "already_registered": "👋 <b>Welcome back!</b>\n\nYou already received a chat link before, want to get a new one?",
+  "admin_panel": "👑 <b>Admin Panel</b>\n\nYou are logged in as admin.",
+  "lang_set": "✅ <b>Language set!</b>\n\nNow proceeding to security check.",
+  "new_captcha": "🔄 New Captcha",
+  "go_to_chat": "🔗 Go to Chat",
+  "new_invite": "🔄 Get New Link",
+  "try_again": "🔄 Try Again",
+  "try_captcha_again": "🔄 Try Captcha Again",
+  "get_new_link": "🔄 Get New Link",
+  "change_language": "🌍 Change Language",
+  "support": "🆘 Support"
+} 

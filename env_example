@@ -1,0 +1,5 @@
+BOT_TOKEN=example_token_bot_telegram
+DB_HOST=example_host
+DB_USER=example_user
+DB_PASSWORD=example_password
+DB_NAME=example_name
